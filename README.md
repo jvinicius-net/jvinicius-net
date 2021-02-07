@@ -2,6 +2,6 @@
 
 * **Name**: Jhonatan Vinicius
 * **Age**: 18
-* **Website**: [https://jvincius.app](https://jvincius.app)
+* **Website**: [https://jvincius.com.br](https://jvincius.com.br)
 * **Living in**: Candói, Paraná, Brazil
-* **University**: Nope.
+* **University**: Computer engineering - UNINGÁ.
